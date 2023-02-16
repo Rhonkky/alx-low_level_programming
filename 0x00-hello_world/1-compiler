@@ -1,4 +1,5 @@
 #!/bin/bash
-gcc .c $CFIL
-#!/bin/bash
-gcc -C $CFILE 
+gcc -C $SCFILE
+
+
+
