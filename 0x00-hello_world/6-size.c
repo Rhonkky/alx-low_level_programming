@@ -18,3 +18,5 @@ printf("size of a long long int: %lu 8 byte(s)\n", (unsigned long)sizeof(d));
 printf("size of a float: %lu 4 byte(s)\n", (unsigned long)sizeof(f));
 return (0);
 }
+gcc 6 - size.c - m 32 - 0 size32 2 > / tmp / 32
+gcc 6 - size.c - m 64 - 0 size64 2 > / tmp / 64
