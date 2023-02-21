@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * Main - check the code
+ * Main - Check the code
  * Return: Always 0.
  */
-int main(void)
+int main(void);
 {
-    print_alphabet();
-    return (0);
+print_alphabet();
+return (0);
 }
