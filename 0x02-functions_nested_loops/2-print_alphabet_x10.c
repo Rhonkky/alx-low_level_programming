@@ -4,7 +4,7 @@
  * print_alphabet_x10 - print 10 times the alphabet, in lowercase
  * folllowed by a new line
  */
-void print_alphabet_x10(void)
+void print_alphabet_X10(void);
 {
 	char c;
 	int i = 0;
@@ -16,6 +16,6 @@ void print_alphabet_x10(void)
 	_putchar(c);
 	}
 	_putchar('\n');
-	i++;
+	i++
 	}
 }
